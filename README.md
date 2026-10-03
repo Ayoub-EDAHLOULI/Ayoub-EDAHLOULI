@@ -1,74 +1,72 @@
-<h1 align="center">Hey Devs 👋! My name is Ayoub Edahlouli</h1>
+<h1 align="center">Ayoub Edahlouli</h1>
+<p align="center">
+  <b>Full-Stack Software Engineer · .NET · React · Tauri/Rust · Applied AI</b><br>
+  Casablanca, Morocco 🇲🇦
+</p>
 
-###
+<p align="center">
+  <a href="https://ayoubedahlouli.com/en"><img src="https://img.shields.io/badge/Portfolio-ayoubedahlouli.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ayoub-edahlouli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ayoub.edahlouli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<h3 align="left">Full-Stack Developer</h3>
+---
 
-###
+## About me
 
-<p align="left">✨ Debugging life since 2024 (and learning from every single bug 🐞)  <br>🚀 Currently exploring **DevOps**, **AI 🤖**, **Data Analytics 📊**, and **Machine Learning 🧠**  <br>🎯 Lifelong learner on a mission to explore *everything* 🌍✨hing that sparks curiosity 🌱</p>
+I'm a full-stack engineer at **[COMSYS](https://comsys.ma/en)**, a Moroccan B2B company building time management, access control, and security solutions. I work on enterprise SaaS: multi-tenant .NET 8 microservices built with Clean Architecture and CQRS, React front ends, and containerized deployments.
 
-###
+Alongside that, I'm finishing a **Master's in Computer Engineering & Artificial Intelligence** at FSAC (Université Hassan II), I ship production websites for freelance clients, and I build open-source tools — mostly **offline-first desktop apps** in Tauri + Rust, and **AI products** built around RAG, local LLMs, and multilingual (Darija / Arabic / French / English) interfaces.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayoub-edahlouli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## Tech stack
 
-<p align="left">👇 I code with</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,rust&theme=dark" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,tauri&theme=dark" alt="Frontend & desktop"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark" alt="Backend & data"><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,nginx,linux&theme=dark" alt="DevOps">
+</p>
 
-###
+**Mobile:** React Native (Expo) · **AI/ML:** PyTorch, LLMs, RAG, pgvector, llama.cpp, Whisper · **Architecture:** Clean Architecture, CQRS/MediatR, multi-tenant SaaS, microservices
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnet logo" />
-  <img width="8" />
-</div>
+---
 
-###
+## Open-source projects
 
-<p align="left">About Me</p>
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| **[Cairn](https://github.com/Ayoub-EDAHLOULI/Cairn)** · [site](https://cairn.ayoubedahlouli.com/) | Offline, Raycast-style launcher to save commands, scripts, code and ideas *with the reason behind each*, built around fast search | Tauri · Rust · React | 🟢 Active |
+| **[NeuroKey](https://github.com/Ayoub-EDAHLOULI/NeuroKey)** · [site](https://www.neurokey.app/) | Offline-first password and card manager for Android and Windows | Mobile · Desktop | 🟢 Released |
+| **Rafeeq** | Local-LLM assistant for air-gapped machines: code help, document Q&A and summarization on CPU-only hardware, no internet | Tauri · Rust · llama.cpp | 🚧 In progress |
+| **Naskh** | 100% offline OCR and document digitizer — no cloud APIs | Tauri · Rust · Tesseract | 🚧 In progress |
+| **Khedma.ai** | Multilingual AI job-search agent: chat in Darija/French/Arabic/English, semantic job matching, tailored CVs, interview simulation | FastAPI · Next.js · pgvector · LLMs | 🚧 In progress |
+| **Mowakaba.AI** | Voice-first Darija assistant for Moroccan administrative procedures, with RAG over official legal texts *(Master's capstone)* | React Native · Whisper · RAG | 🚧 In progress |
 
-###
+---
 
-<p align="left">🎓 A passionate Computer Development student at the Faculty of Sciences Aïn Chock and a **Full-Stack Developer at Comsys**, where I work with **ASP.NET Core**, **SQL Server**, and **React** to deliver robust, scalable solutions.</p>
+## Client work
 
-###
+Production websites I've built and deployed for businesses:
 
-<p align="left">💼 I'm also a **freelancer** building websites using **Next.js** and developing **cross-platform mobile apps** with **.NET MAUI**.</p>
+| Client | Project |
+|---|---|
+| **[Ups-Batteries](https://ups-batteries.ma/en)** | E-commerce and B2B quote platform for an authorized EATON & SUNLIGHT distributor — product catalog, partner portal, multilingual |
+| **[SHEAIMS](https://sheaims.com/en)** | Beauty e-commerce store |
+| **[Are Beauty](https://are-beauty.com/en)** | Beauty e-commerce store — full-stack build, deployment and ops |
 
-###
+---
 
-<p align="left">💡 I enjoy crafting clean, high-performance applications with a focus on **user experience**, **team collaboration**, and **code quality**.</p>
+## Currently
 
-###
+- 🎓 Final year of my Master's in Computer Engineering & AI
+- 🦀 Going deeper into Rust through my offline desktop tools
+- 🧠 Working through a hands-on machine learning plan, with write-ups for each topic
 
-<p align="left">🌍 Based in: Morocco<br>📫 How to reach me: ayoub.edahlouli@gmail.com</p>
+---
 
-###
-
-<p align="left">💻 Let's connect and build something awesome! 🛠️🔥</p>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/0e/48/78/0e4878a687961f57445d9888a9dea16a.gif"  />
-
-###
+<p align="center">
+  <i>Open to collaboration, freelance projects, and engineering roles.</i><br>
+  <a href="mailto:ayoub.edahlouli@gmail.com">ayoub.edahlouli@gmail.com</a>
+</p>
