@@ -37,8 +37,9 @@ Alongside that, I'm finishing a **Master's in Computer Engineering & Artificial 
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[Cairn](https://github.com/Ayoub-EDAHLOULI/Cairn)** · [site](https://cairn.ayoubedahlouli.com/) | Offline, Raycast-style launcher to save commands, scripts, code and ideas *with the reason behind each*, built around fast search | Tauri · Rust · React | 🟢 Active |
 | **[NeuroKey](https://github.com/Ayoub-EDAHLOULI/NeuroKey)** · [site](https://www.neurokey.app/) | Offline-first password and card manager for Android and Windows | Mobile · Desktop | 🟢 Released |
+| **[Cairn](https://github.com/Ayoub-EDAHLOULI/Cairn)** · [site](https://cairn.ayoubedahlouli.com/) | Offline, Raycast-style launcher to save commands, scripts, code and ideas *with the reason behind each*, built around fast search | Tauri · Rust · React | 🟢 Active |
+| **[AirToolkit](https://github.com/Ayoub-EDAHLOULI/AirToolkit)** · [site](https://airtoolkit.ayoubedahlouli.com/en) | 39 developer utilities in one fully offline desktop app (JSON formatting, regex testing, hashing, JWT decoding and more) for security-restricted environments | Tauri · Rust · React | 🟢 Active |
 | **Rafeeq** | Local-LLM assistant for air-gapped machines: code help, document Q&A and summarization on CPU-only hardware, no internet | Tauri · Rust · llama.cpp | 🚧 In progress |
 | **Naskh** | 100% offline OCR and document digitizer — no cloud APIs | Tauri · Rust · Tesseract | 🚧 In progress |
 | **Khedma.ai** | Multilingual AI job-search agent: chat in Darija/French/Arabic/English, semantic job matching, tailored CVs, interview simulation | FastAPI · Next.js · pgvector · LLMs | 🚧 In progress |
