@@ -37,7 +37,7 @@ Alongside that, I'm finishing a **Master's in Computer Engineering & Artificial 
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[NeuroKey](https://github.com/Ayoub-EDAHLOULI/NeuroKey)** · [site](https://www.neurokey.app/) | Offline-first password and card manager for Android and Windows | Mobile · Desktop | 🟢 Released |
+| **[NeuroKey](https://github.com/Ayoub-EDAHLOULI/NeuroKey)** · [site](https://www.neurokey.app/) | Offline-first password and card manager for Android and Windows | Mobile · Desktop | 🟢 Active |
 | **[Cairn](https://github.com/Ayoub-EDAHLOULI/Cairn)** · [site](https://cairn.ayoubedahlouli.com/) | Offline, Raycast-style launcher to save commands, scripts, code and ideas *with the reason behind each*, built around fast search | Tauri · Rust · React | 🟢 Active |
 | **[AirToolkit](https://github.com/Ayoub-EDAHLOULI/AirToolkit)** · [site](https://airtoolkit.ayoubedahlouli.com/en) | 39 developer utilities in one fully offline desktop app (JSON formatting, regex testing, hashing, JWT decoding and more) for security-restricted environments | Tauri · Rust · React | 🟢 Active |
 | **[AirConvert](https://github.com/Ayoub-EDAHLOULI/AirConvert)** · [site](https://airconvert.ayoubedahlouli.com/en) | Fully offline, local-first file converter for images, audio, video, documents and spreadsheets — zero network calls | Tauri · Rust · React · FFmpeg | 🟢 Active |
